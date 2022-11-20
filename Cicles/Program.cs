@@ -46,3 +46,5 @@ while (count < 1000)
     Console.WriteLine ("+");
     count = count +1; // короткие версии этой команды count +=1 и count++
 }
+
+// .
